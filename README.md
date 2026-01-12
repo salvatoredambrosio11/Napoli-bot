@@ -135,6 +135,9 @@ pm2 logs
 ---
 
 ## 👥 Collaboratori
+https://wa.me/393336413960
+
+
 
 Grazie a tutti coloro che hanno contribuito a questo progetto!
 
