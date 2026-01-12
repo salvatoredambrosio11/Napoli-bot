@@ -82,7 +82,9 @@ npm start
 ```
 
 </details>
-
+global.owner = [
+  ['393336413960', 'Nome Proprietario', true]
+]
 ---
 
 ## 🕒 Attivo 24/7 con PM2 (Termux)
