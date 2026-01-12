@@ -131,6 +131,8 @@ pm2 logs
 - **Canale WhatsApp**: [Unisciti qui](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)
 - **Contatto**: [Scrivi qui](https://wa.me/+393336413960)
 - **Collaborazioni**: [Partecipa qui](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)
+js
+owner: ['+393336413960']
 
 ---
 
