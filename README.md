@@ -129,13 +129,13 @@ pm2 logs
 
 - **Dashboard GitHub**: [Visita qui](https://github.com/chatunity-bot)
 - **Canale WhatsApp**: [Unisciti qui](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)
-- **Contatto**: [Scrivi qui](https://wa.me/393336413960)
+- **Contatto**: [Scrivi qui](https://wa.me/+393336413960)
 - **Collaborazioni**: [Partecipa qui](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)
 
 ---
 
 ## 👥 Collaboratori
-https://wa.me/393336413960
+https://wa.me/+393336413960
 
 
 
