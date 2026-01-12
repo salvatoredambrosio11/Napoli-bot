@@ -6,7 +6,7 @@
 <p align="center"><strong>Un bot avanzato per WhatsApp, ricco di funzionalità e divertimento!</strong></p>
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J">
+  <a href="https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g">
     <img src="https://img.shields.io/badge/Canale_Ufficiale-black?style=for-the-badge&logo=whatsapp" alt="Canale Ufficiale">
   </a>
 </p>
