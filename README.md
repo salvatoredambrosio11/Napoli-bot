@@ -148,6 +148,6 @@ Grazie a tutti coloro che hanno contribuito a questo progetto!
 
 ## 📜 Licenza
 
-© ChatUnity-Bot. Tutti i diritti riservati. Consulta la licenza per i dettagli.
+© Napoli-Bot. Tutti i diritti riservati. Consulta la licenza per i dettagli.
 
 <p align="center"><strong>🌟 Supporta il progetto con una stella su GitHub! 🌟</strong></p>
