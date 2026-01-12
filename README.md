@@ -2,7 +2,7 @@
  <img src="https://files.catbox.moe/vlhvzg.jpeg" alt="Immagine-Whats-App-2025-10-23-ore-19-58-44-580b7b7d" border="0"></a> 
 </p>
 
-<h1 align="center">© ChatUnity-Bot 8.7 🤖</h1>
+<h1 align="center">© Napoli-bot 8.7 🤖</h1>
 <p align="center"><strong>Un bot avanzato per WhatsApp, ricco di funzionalità e divertimento!</strong></p>
 
 <p align="center">
@@ -128,9 +128,9 @@ pm2 logs
 ## 📂 Risorse Utili
 
 - **Dashboard GitHub**: [Visita qui](https://github.com/chatunity-bot)
-- **Canale WhatsApp**: [Unisciti qui](https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J)
-- **Contatto**: [Scrivi qui](https://wa.me/393773842461)
-- **Collaborazioni**: [Partecipa qui](https://whatsapp.com/channel/0029Vb1C4od5vKA35u1Mqc06)
+- **Canale WhatsApp**: [Unisciti qui](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)
+- **Contatto**: [Scrivi qui](https://wa.me/393336413960)
+- **Collaborazioni**: [Partecipa qui](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)
 
 ---
 
