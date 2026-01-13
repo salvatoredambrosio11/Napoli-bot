@@ -16,7 +16,7 @@ global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...';
 
 global.owner = [
   ['393336413960', 'Salvatore', true],
-  ['19184025124', 'Simone ', truel] //mettete il vostro numero al posto delle x e copiate sopra il formato dopo ovvero 'nome', true
+  ['19184025124', 'Simone ', truel],//mettete il vostro numero al posto delle x e copiate sopra il formato dopo ovvero 'nome', true
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
