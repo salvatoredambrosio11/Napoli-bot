@@ -23,7 +23,7 @@
   <summary><b>Clicca qui per vedere i passaggi</b></summary>
 
 👉🏻 [Scarica Termux (MediaFire)](https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/)  
-👉🏻 [Scarica zip bot](https://github.com/chatunitycenter/chatunity-bot/archive/refs/heads/main.zip)  
+👉🏻 [Scarica zip git clone https://github.com/salvatoredambrosio11/Napoli-bot.git/archive/refs/heads/main.zip)  
 👉🏻 [Scarica MT Manager](https://mt-manager.en.softonic.com/android)
 
 </details>
@@ -36,93 +36,33 @@
 [![Tutorial Installazione](https://img.shields.io/badge/Tutorial-Installazione-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/-FZYK-vj4BY)
 ### 🚀 1. Scarica  [CLICCANDO QUI](https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/) Termux
 ### 🚀 2. incollare tutto insieme i comandi sottostanti nessuno escluso in ordine
-```bash
 termux-setup-storage && \
 pkg update && pkg upgrade -y && \
-pkg install git nodejs ffmpeg imagemagick yarn -y && \
+pkg install git nodejs ffmpeg imagemagick yarn -y && \ 
+pkg install python && \
+pip install yt-dlp && \
 cd ~ && \
-git clone https://github.com/chatunitycenter/chatunity-bot.git && \
-cd chatunity-bot && \
+git clone https://github.com/salvatoredambrosio11/Napoli-bot.git && \
+cd Napoli-bot && \
 yarn install && \
 yarn start
-```
 
 ## 🚀 Installazione termux con zip (per developers)
 
 [![Tutorial Installazione](https://img.shields.io/badge/Tutorial-Installazione-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/-FZYK-vj4BY)
 
-### 🚀 1. Scarica  [CLICCANDO QUI](https://github.com/chatunitycenter/chatunity-bot/archive/refs/heads/main.zip) la zip del bot
+### 🚀 1. Scarica  [CLICCANDO QUI](git clone https://github.com/salvatoredambrosio11/Napoli-bot.git/archive/refs/heads/main.zip) la zip del bot
 ### 🚀 2. Scarica  [CLICCANDO QUI](https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/) Termux
-### 🚀 3. incollare tutto insieme i comandi sottostanti su termux
-```bash
-termux-setup-storage && \
-pkg update && pkg upgrade -y && \
-pkg install x11-repo tur-repo -y && \
-pkg install git nodejs ffmpeg imagemagick yarn -y && \
-cd ~ && \
-cd ~/storage/downloads && \
-unzip chatunity-bot-main.zip && \
-cd chatunity-bot-main && \
-yarn install && \
-yarn start
-```
 
----
----
 
 ## 🔄 Riavvia il bot (Termux)
 
 <details>
 <summary><b>Clicca qui per vedere i passaggi</b></summary>
-
-```bash
-cd chatunity-bot
-rm -rf Sessioni
+git clone https://github.com/salvatoredambrosio11/Napoli-bot.git
+cd Napoli-bot
+yarn
 npm start
-```
-
-
----
-
-## 🕒 Attivo 24/7 con PM2 (Termux)
-
-<details>
-<summary><b>Clicca qui per vedere i passaggi</b></summary>
-
-```bash
-npm i -g pm2
-pm2 start index.js
-pm2 save
-pm2 logs
-```
-
-</details>
-
----
-
-## 🌐 Installazione su Windows/VPS/RDP
-
-<details>
-<summary><b>Clicca qui per vedere i passaggi</b></summary>
-
-1. Scarica:
-   - [Git](https://git-scm.com/downloads)
-   - [NodeJS](https://nodejs.org/en/download)
-   - [FFmpeg](https://ffmpeg.org/download.html)
-   - [ImageMagick](https://imagemagick.org/script/download.php)
-
-2. Clona e installa:
-   ```bash
-   git clone https://github.com/chatunitycenter/chatunity-bot
-   cd chatunity-bot
-   npm install
-   npm update
-   npm start
-   ```
-
-</details>
-
----
 
 ## 📂 Risorse Utili
 
