@@ -29,13 +29,14 @@
 ---
 ---
 
-
+```bash
 ## 🚀 Installazione termux senza zip (consigliato)
 
 [![Tutorial Installazione](https://img.shields.io/badge/Tutorial-Installazione-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/-FZYK-vj4BY)
 ### 🚀 1. Scarica  [CLICCANDO QUI](https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/) Termux
-### 🚀 2. incollare tutto insieme i comandi sottostanti nessuno escluso in ordine
+
 ```bash
+### 🚀 2. incollare tutto insieme i comandi sottostanti nessuno escluso in ordine
 termux-setup-storage && \
 pkg update && pkg upgrade -y && \
 pkg install git nodejs ffmpeg imagemagick yarn -y && \ 
@@ -50,12 +51,10 @@ yarn start
 
 ---
 ---
-
+```bash
 ## 🔄 Riavvia il bot (Termux)
-
 <details>
 <summary><b>Clicca qui per vedere i passaggi</b></summary>
-```bash
 git clone https://github.com/salvatoredambrosio11/Napoli-bot.git
 
 cd Napoli-bot
@@ -65,36 +64,21 @@ yarn
 npm start
 
 ```bash
+
 ## 📂 Risorse Utili
 
 ---
 ---
 
-- **Dashboard GitHub**: [Visita qui](https://github.com/chatunity-bot)
+- **Dashboard GitHub**: [Visita qui](https://github.com/salvatoredambrosio11/Napoli-bot.git)
 - **Canale WhatsApp**: [Unisciti qui](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)
 - **Contatto**: [Scrivi qui](https://wa.me/+393336413960)
 - **Collaborazioni**: [Partecipa qui](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)
 
 
----
----
-## 👥 Collaboratori
 
-
-
-
-Grazie a tutti coloro che hanno contribuito a questo progetto!
-
-<p align="center">
-  <a href="https://github.com/laboratiork25/beta/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=laboratiork25/beta"/>
-  </a>
-</p>
-
----
----
 ## 📜 Licenza
 
 © Napoli-Bot. Tutti i diritti riservati. Consulta la licenza per i dettagli.
 
-<p align="center"><strong>🌟 Supporta il progetto con una stella su GitHub! 🌟</strong></p>
+Supporta il progetto con una stella su GitHub! 🌟</strong></p>
