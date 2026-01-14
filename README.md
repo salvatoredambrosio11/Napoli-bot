@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Canale_Ufficiale-black?style=for-the-badge&logo=whatsapp" alt="Canale Ufficiale">
   </a>
 </p>
-```bash
+---
 ---
 
 ## 📌 Introduzione
@@ -26,7 +26,7 @@
 
 
 </details>
-```bash
+---
 ---
 
 
