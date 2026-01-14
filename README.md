@@ -48,8 +48,8 @@ yarn install && \
 yarn start
 
 
-
-
+---
+---
 
 ## 🔄 Riavvia il bot (Termux)
 
@@ -67,6 +67,9 @@ npm start
 ```bash
 ## 📂 Risorse Utili
 
+---
+---
+
 - **Dashboard GitHub**: [Visita qui](https://github.com/chatunity-bot)
 - **Canale WhatsApp**: [Unisciti qui](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)
 - **Contatto**: [Scrivi qui](https://wa.me/+393336413960)
@@ -74,7 +77,7 @@ npm start
 
 
 ---
-```bash
+---
 ## 👥 Collaboratori
 
 
@@ -89,7 +92,7 @@ Grazie a tutti coloro che hanno contribuito a questo progetto!
 </p>
 
 ---
-```bash
+---
 ## 📜 Licenza
 
 © Napoli-Bot. Tutti i diritti riservati. Consulta la licenza per i dettagli.
