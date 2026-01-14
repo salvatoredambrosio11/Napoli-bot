@@ -10,7 +10,7 @@ global.packname = 'Napoli_bot';
 global.author = 'Napoli_bot';
 global.vs = '8.8';
 global.collab = 'Demon Slayer';
-global.wm = global.nomebot;
+global.wm = global.Napoli-bot;
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...';
 
 
