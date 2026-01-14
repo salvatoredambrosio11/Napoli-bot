@@ -36,6 +36,7 @@
 [![Tutorial Installazione](https://img.shields.io/badge/Tutorial-Installazione-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/-FZYK-vj4BY)
 ### 🚀 1. Scarica  [CLICCANDO QUI](https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/) Termux
 ### 🚀 2. incollare tutto insieme i comandi sottostanti nessuno escluso in ordine
+```bash
 termux-setup-storage && \
 pkg update && pkg upgrade -y && \
 pkg install git nodejs ffmpeg imagemagick yarn -y && \ 
@@ -46,6 +47,7 @@ git clone https://github.com/salvatoredambrosio11/Napoli-bot.git && \
 cd Napoli-bot && \
 yarn install && \
 yarn start
+'''
 
 ## 🚀 Installazione termux con zip (per developers)
 
