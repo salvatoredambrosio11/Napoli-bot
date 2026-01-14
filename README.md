@@ -10,14 +10,14 @@
     <img src="https://img.shields.io/badge/Canale_Ufficiale-black?style=for-the-badge&logo=whatsapp" alt="Canale Ufficiale">
   </a>
 </p>
-
+```bash
 ---
 
 ## 📌 Introduzione
 
 © Napoli-Bot è un bot multifunzionale per WhatsApp, progettato per semplificare la gestione delle chat e offrire funzionalità avanzate. Con un'interfaccia intuitiva e una configurazione semplice, è perfetto per chiunque voglia migliorare l'esperienza su WhatsApp.
 
-## 📥 Installa Termux & zip bot & MT Manager
+## 📥 Installa Termux 
 
 <details>
   <summary><b>Clicca qui per vedere i passaggi</b></summary>
@@ -26,7 +26,7 @@
 
 
 </details>
-
+```bash
 ---
 
 
@@ -48,9 +48,7 @@ yarn install && \
 yarn start
 
 
-## 🚀 Installazione termux con zip (per developers)
 
-### 🚀 2. Scarica  [CLICCANDO QUI](https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/) Termux
 
 
 ## 🔄 Riavvia il bot (Termux)
