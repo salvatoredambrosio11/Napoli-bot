@@ -47,7 +47,7 @@ git clone https://github.com/salvatoredambrosio11/Napoli-bot.git && \
 cd Napoli-bot && \
 yarn install && \
 yarn start
-'''
+
 
 ## 🚀 Installazione termux con zip (per developers)
 
