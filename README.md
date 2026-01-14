@@ -22,9 +22,8 @@
 <details>
   <summary><b>Clicca qui per vedere i passaggi</b></summary>
 
-👉🏻 [Scarica Termux (MediaFire)](https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/)  
-👉🏻 [Scarica zip git clone https://github.com/salvatoredambrosio11/Napoli-bot.git/archive/refs/heads/main.zip)  
-👉🏻 [Scarica MT Manager](https://mt-manager.en.softonic.com/android)
+👉🏻 [Scarica Termux (MediaFire)](https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/)   
+
 
 </details>
 
@@ -51,9 +50,6 @@ yarn start
 
 ## 🚀 Installazione termux con zip (per developers)
 
-[![Tutorial Installazione](https://img.shields.io/badge/Tutorial-Installazione-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/-FZYK-vj4BY)
-
-### 🚀 1. Scarica  [CLICCANDO QUI](git clone https://github.com/salvatoredambrosio11/Napoli-bot.git/archive/refs/heads/main.zip) la zip del bot
 ### 🚀 2. Scarica  [CLICCANDO QUI](https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/) Termux
 
 
@@ -61,6 +57,7 @@ yarn start
 
 <details>
 <summary><b>Clicca qui per vedere i passaggi</b></summary>
+```bash
 git clone https://github.com/salvatoredambrosio11/Napoli-bot.git
 
 cd Napoli-bot
@@ -69,6 +66,7 @@ yarn
 
 npm start
 
+```bash
 ## 📂 Risorse Utili
 
 - **Dashboard GitHub**: [Visita qui](https://github.com/chatunity-bot)
@@ -78,7 +76,7 @@ npm start
 
 
 ---
-
+```bash
 ## 👥 Collaboratori
 
 
@@ -93,7 +91,7 @@ Grazie a tutti coloro che hanno contribuito a questo progetto!
 </p>
 
 ---
-
+```bash
 ## 📜 Licenza
 
 © Napoli-Bot. Tutti i diritti riservati. Consulta la licenza per i dettagli.
