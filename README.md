@@ -2,6 +2,7 @@
  <img src="https://files.catbox.moe/vlhvzg.jpeg" alt="Immagine-Whats-App-2026-01-14-ore-00-37-11-580b7b7d" border="0"></a> 
 </p>
 
+```bash
 <h1 align="center">© Napoli-bot 8.7 🤖</h1>
 <p align="center"><strong>Un bot avanzato per WhatsApp, ricco di funzionalità e divertimento!</strong></p>
 
