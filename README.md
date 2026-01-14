@@ -13,6 +13,7 @@
 ---
 ---
 
+```bash
 ## 📌 Introduzione
 
 © Napoli-Bot è un bot multifunzionale per WhatsApp, progettato per semplificare la gestione delle chat e offrire funzionalità avanzate. Con un'interfaccia intuitiva e una configurazione semplice, è perfetto per chiunque voglia migliorare l'esperienza su WhatsApp.
@@ -51,6 +52,7 @@ yarn start
 
 ---
 ---
+
 ```bash
 ## 🔄 Riavvia il bot (Termux)
 <details>
@@ -63,8 +65,8 @@ yarn
 
 npm start
 
-```bash
 
+```bash
 ## 📂 Risorse Utili
 
 ---
