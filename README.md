@@ -66,6 +66,14 @@ npm start
 ---
 ---
 
+
+
+
+
+
+
+
+
 ## 🌐 Installazione su Windows/VPS/RDP
 
 <details>
@@ -84,11 +92,10 @@ cd Napoli-bot
 yarn
 npm start
    ```
+---
+---
 
 </details>
-
----
----
 
 ## 📂 Risorse Utili
 
