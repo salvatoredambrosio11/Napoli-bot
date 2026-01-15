@@ -85,13 +85,7 @@ npm start
 cd Napoli-bot
 yarn
 npm start
-   ```
----
----
-
-</details>
-
-## 📂 Risorse Utili
+   ,,,
 
 
 ## 📜 Licenza
