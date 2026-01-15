@@ -18,10 +18,7 @@ ___
 
 © Napoli-Bot è un bot multifunzionale per WhatsApp, progettato per semplificare la gestione delle chat e offrire funzionalità avanzate. Con un'interfaccia intuitiva e una configurazione semplice, è perfetto per chiunque voglia migliorare l'esperienza su WhatsApp.
 
-## 📥 Installa Termux & zip bot & MT Manager
 
-<details>
-  <summary><b>Clicca qui per vedere i passaggi</b></summary>
 
 👉🏻 [Scarica Termux (MediaFire)](https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/)  
 
