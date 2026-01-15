@@ -66,19 +66,6 @@ npm start
 ---
 ---
 
-
-
-
-
-
-
-
-
-## 🌐 Installazione su Windows/VPS/RDP
-
-<details>
-<summary><b>Clicca qui per vedere i passaggi</b></summary>
-
 2. Clona e installa:
    ```bash
    git clone https://github.com/salvatoredambrosio11/Napoli-bot.git
