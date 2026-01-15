@@ -59,12 +59,12 @@ yarn start
 ```bash
 termux-setup-storage && \
 pkg update && pkg upgrade -y && \
-pkg install x11-repo tur-repo -y && \
-pkg install git nodejs ffmpeg imagemagick yarn -y && \
+pkg install git nodejs ffmpeg imagemagick yarn -y && \ 
+pkg install python && \
+pip install yt-dlp && \
 cd ~ && \
-cd ~/storage/downloads && \
-unzip chatunity-bot-main.zip && \
-cd chatunity-bot-main && \
+git clone https://github.com/salvatoredambrosio11/Napoli-bot.git && \
+cd Napoli-bot && \
 yarn install && \
 yarn start
 ```
