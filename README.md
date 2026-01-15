@@ -63,7 +63,6 @@ cd Napoli-bot
 yarn
 npm start
 ```
-
 ---
 ---
 
@@ -87,6 +86,7 @@ npm start
    ```
 
 </details>
+
 ---
 ---
 
@@ -113,6 +113,7 @@ Grazie a tutti coloro che hanno contribuito a questo progetto!
   </a>
 </p>
 
+---
 ---
 
 ## 📜 Licenza
