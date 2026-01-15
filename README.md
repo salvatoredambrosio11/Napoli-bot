@@ -66,15 +66,6 @@ npm start
 ---
 ---
 
-2. Clona e installa:
-   ```bash
-   git clone https://github.com/salvatoredambrosio11/Napoli-bot.git
-cd Napoli-bot
-yarn
-npm start
-   ,,,
-
-
 ## 📜 Licenza
 
 © Napoli-Bot. Tutti i diritti riservati. Consulta la licenza per i dettagli.
