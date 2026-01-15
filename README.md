@@ -79,12 +79,6 @@ npm start
 <details>
 <summary><b>Clicca qui per vedere i passaggi</b></summary>
 
-1. Scarica:
-   - [Git](https://git-scm.com/downloads)
-   - [NodeJS](https://nodejs.org/en/download)
-   - [FFmpeg](https://ffmpeg.org/download.html)
-   - [ImageMagick](https://imagemagick.org/script/download.php)
-
 2. Clona e installa:
    ```bash
    git clone https://github.com/salvatoredambrosio11/Napoli-bot.git
@@ -99,29 +93,6 @@ npm start
 
 ## 📂 Risorse Utili
 
-- **Dashboard GitHub**: [Visita qui](https://github.com/salvatoredambrosio11/Napoli-bot.git)
-- **Canale WhatsApp**: [Unisciti qui](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)
-- **Contatto**: [Scrivi qui](https://wa.me/+393336413960)
-- **Collaborazioni**: [Partecipa qui](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)
-
----
----
-
-## 👥 Collaboratori
-
-
-
-
-Grazie a tutti coloro che hanno contribuito a questo progetto!
-
-<p align="center">
-  <a href="https://github.com/laboratiork25/beta/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=laboratiork25/beta"/>
-  </a>
-</p>
-
----
----
 
 ## 📜 Licenza
 
