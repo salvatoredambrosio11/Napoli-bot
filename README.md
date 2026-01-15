@@ -77,9 +77,10 @@ yarn start
 <details>
 <summary><b>Clicca qui per vedere i passaggi</b></summary>
 
-```bash
-cd chatunity-bot
-rm -rf Sessioni
+```bash 
+git clone https://github.com/salvatoredambrosio11/Napoli-bot.git
+cd Napoli-bot
+yarn
 npm start
 ```
 
